@@ -1,0 +1,18 @@
+Exactly one parameter is positive
+Write a program that reads three integer numbers and prints true if exactly one number is positive (i.e. > 0).
+
+Otherwise, it should print false.
+
+
+Sample Input:
+1 1 1
+
+Sample Output:
+false
+
+
+Sample Input:
+1 0 -1
+
+Sample Output:
+true
